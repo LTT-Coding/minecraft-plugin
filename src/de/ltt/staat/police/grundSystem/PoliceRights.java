@@ -1,0 +1,17 @@
+package de.ltt.staat.police.grundSystem;
+
+public enum PoliceRights {
+
+	INVITE,
+	UNINVITE,
+	SETRIGHTS,
+	SETRANKPAY,
+	SETPLAYERPAY,
+	RANKUP,
+	EQUIP,
+	EQUIPEINSTELLEN,
+	AKTELÖSCHEN,
+	AKTELESEN,
+	AKTEBEARBEITEN,
+	RANKDOWN;
+}
